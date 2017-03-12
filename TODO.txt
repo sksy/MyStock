@@ -1,0 +1,9 @@
+
+2017-03-11 3:20 PM
+
+* MyStock
+    - My Stock program to display stock's data both technical data and fundamental data
+
+* Process
+    todo 1. Input ticker and show fundamental data
+
